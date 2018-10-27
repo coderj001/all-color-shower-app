@@ -21,6 +21,6 @@ In your browser, open the file:
 	
 	condova phonegap for app deployed 
 	
-	link  of this app:
+	link  of this app: https://drive.google.com/file/d/1CVzS8OH6qe4NZbbNllROGfHSt3_O85wD/view?usp=sharing
 	
 	
